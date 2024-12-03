@@ -1,0 +1,30 @@
+body{
+    background: khaki;
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+header{
+    text-align: center;
+    background-color: lemonchiffon;
+    margin: 25px;
+    border-radius: 12px;
+}
+main{
+    text-align: center;
+}
+section{
+    background-color: lemonchiffon;
+    margin: 25px;
+    padding: 8px;
+    border-radius: 12px;
+}
+footer a{
+    float: right;
+    background-color: azure;
+    text-decoration: none;
+    text-align: center;
+    margin: 18px;
+    border-radius: 15px;
+    padding: 8px;
+}

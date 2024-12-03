@@ -1,0 +1,34 @@
+body {
+    background-color: lightskyblue;
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+header{
+    text-align: center;
+    background-color: paleturquoise;
+    margin: 20px;
+    border-radius: 10px;
+}
+main{
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+section{
+    background-color: paleturquoise;
+    padding: 12px;
+    border-radius: 10px;
+    margin: 20px;
+}
+footer a{
+    float: right;
+    text-align: center;
+    text-decoration: none;
+    background-color: azure;
+    color: black;
+    padding: 10px;
+    margin-right: 20px;
+    border-radius: 12px;
+    margin-bottom: 15px;
+}
